@@ -1,6 +1,6 @@
 # TASK-1
 downloaded the "NETFLIX MOVIE AND TV SHOW" Dataset
-founf the blanks and fill with appropriate text
+found the blanks and fill with appropriate text
 FORMATED THE DATA SET
 CLEAR DUPLICATED "FOUND NONE"
 FORMATED THE BLANK CELL WITH UNKNOWN OR NOT PROVIDED
